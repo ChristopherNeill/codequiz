@@ -146,7 +146,7 @@ function next() {
     currentQuestion++;
 
     if (currentQuestion > questions.length - 1) {
-        endGame();
+        stopGame();
         return;
     }
 
