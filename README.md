@@ -3,4 +3,4 @@ As you proceed in your career as a web developer, you will probably be asked to 
 
 # codequiz
 
-<img width="1439" alt="Screen Shot 2020-01-11 at 2 53 27 AM" src="https://user-images.githubusercontent.com/58280924/72201874-74b67800-341e-11ea-8cbb-ae6f0319bd12.png">
+<img width="1438" alt="Screen Shot 2020-01-16 at 4 58 36 PM" src="https://user-images.githubusercontent.com/58280924/72570201-dabd5800-3881-11ea-884a-bbcf0193ae14.png">
