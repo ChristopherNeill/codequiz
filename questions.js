@@ -152,9 +152,7 @@ function next() {
 
     var quizContent = "<h2>" + questions[currentQuestion].title + "</h2>"
 
-
     for (var quizRun = 0; quizRun < questions[currentQuestion].choices.length; quizRun++) {
-
 
         var buttonVar = "<button onclick=\"[ANS]\">[CHOICE]</button>";
 
@@ -169,6 +167,5 @@ function next() {
 
         quizContent += buttonVar
     }
-
     document.getElementById("quizBody").innerHTML = quizContent;
 }
