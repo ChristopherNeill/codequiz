@@ -4,3 +4,7 @@ As you proceed in your career as a web developer, you will probably be asked to 
 # codequiz
 
 <img width="1438" alt="Screen Shot 2020-01-16 at 4 58 36 PM" src="https://user-images.githubusercontent.com/58280924/72570201-dabd5800-3881-11ea-884a-bbcf0193ae14.png">
+
+repo: https://github.com/ChristopherNeill/codequiz/
+
+weblink: https://christopherneill.github.io/codequiz/
